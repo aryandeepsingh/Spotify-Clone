@@ -1,2 +1,4 @@
 # Spotify-Clone
-Spotify Clone using Frontend Web Technologies
+Spotify Clone
+
+Technologies Used: HTML, CSS, JAVASCRIPT
